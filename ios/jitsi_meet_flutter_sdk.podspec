@@ -15,7 +15,7 @@ Jitsi Meet Flutter SDK
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
   s.dependency 'Flutter'
-  s.dependency 'JitsiMeetSDK', '8.6.0'
+  s.dependency 'JitsiMeetSDKLite', '8.6.1-lite'
   s.platform = :ios, '12.4'
 
   # Flutter.framework does not contain a i386 slice.
